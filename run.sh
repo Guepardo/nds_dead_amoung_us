@@ -1,3 +1,3 @@
 #!/bin/sh
 
-desmume-cli nds_poc.nds
+make clean && make && desmume-cli nds_poc.nds

@@ -74,7 +74,8 @@ main.o: /home/allyson/Desktop/nds_poc/source/main.cpp \
  /home/allyson/Desktop/nds_poc/nflib/include/nf_sound.h \
  /home/allyson/Desktop/nds_poc/nflib/include/nf_media.h \
  /home/allyson/Desktop/nds_poc/nflib/include/nf_3d.h \
- /home/allyson/Desktop/nds_poc/nflib/include/nf_sprite3d.h
+ /home/allyson/Desktop/nds_poc/nflib/include/nf_sprite3d.h \
+ /home/allyson/Desktop/nds_poc/source/enemy.cpp
 /opt/devkitpro/libnds/include/nds.h:
 /opt/devkitpro/libnds/include/nds/libversion.h:
 /opt/devkitpro/libnds/include/nds/ndstypes.h:
@@ -151,3 +152,4 @@ main.o: /home/allyson/Desktop/nds_poc/source/main.cpp \
 /home/allyson/Desktop/nds_poc/nflib/include/nf_media.h:
 /home/allyson/Desktop/nds_poc/nflib/include/nf_3d.h:
 /home/allyson/Desktop/nds_poc/nflib/include/nf_sprite3d.h:
+/home/allyson/Desktop/nds_poc/source/enemy.cpp:
